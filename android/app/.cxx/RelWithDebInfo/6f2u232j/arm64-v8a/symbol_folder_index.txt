@@ -1,0 +1,1 @@
+C:\ReactNative\simon\android\app\build\intermediates\cxx\RelWithDebInfo\6f2u232j\obj\arm64-v8a

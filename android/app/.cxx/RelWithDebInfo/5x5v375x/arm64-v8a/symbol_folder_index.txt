@@ -1,0 +1,1 @@
+C:\Full Stack Web Projects\React Native\simon\android\app\build\intermediates\cxx\RelWithDebInfo\5x5v375x\obj\arm64-v8a

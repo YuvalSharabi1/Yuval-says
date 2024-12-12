@@ -1,0 +1,28 @@
+android/app/build/
+# Node modules
+/node_modules/
+
+# React Native packager
+/packager/*
+
+# Build directories
+/android/build/
+/ios/build/
+/android/app/build/
+
+# Debug files
+*.log
+*.env
+*.apk
+*.xcodeproj
+*.xcworkspace
+
+# VSCode and other IDE files
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Optional: Git LFS tracked files
+*.apk
+*.so
